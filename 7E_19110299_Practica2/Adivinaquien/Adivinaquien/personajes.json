@@ -1,0 +1,65 @@
+{
+    "Capitan": {
+        "tiene_bigote": "True",
+        "es_hombre": "True",
+        "es_color_azul": "True",
+        "lleva_sombrero": "False",
+        "tiene_cabello_morado": "False",
+        "tiene_cabello_blanco": "True",
+        "es_un_adolescente_o_joven": "False"
+    },
+    "Chuck": {
+        "tiene_bigote": "True",
+        "es_hombre": "True",
+        "es_color_azul": "False",
+        "lleva_sombrero": "False",
+        "tiene_cabello_morado": "False",
+        "tiene_cabello_blanco": "False",
+        "es_un_adolescente_o_joven": "False"
+    },
+    "Clancy": {
+        "tiene_bigote": "False",
+        "es_hombre": "True",
+        "es_color_azul": "False",
+        "lleva_sombrero": "True",
+        "tiene_cabello_morado": "True",
+        "tiene_cabello_blanco": "False",
+        "es_un_adolescente_o_joven": "True"
+    },
+    "Magistrado": {
+        "tiene_bigote": "True",
+        "es_hombre": "True",
+        "es_color_azul": "False",
+        "lleva_sombrero": "True",
+        "tiene_cabello_morado": "False",
+        "tiene_cabello_blanco": "True",
+        "es_un_adolescente_o_joven": "False"
+    },
+    "Pescado": {
+        "tiene_bigote": "False",
+        "es_hombre": "True",
+        "es_color_azul": "True",
+        "lleva_sombrero": "False",
+        "tiene_cabello_morado": "False",
+        "tiene_cabello_blanco": "False",
+        "es_un_adolescente_o_joven": "False"
+    },
+    "Trudy": {
+        "tiene_bigote": "False",
+        "es_hombre": "False",
+        "es_color_azul": "False",
+        "lleva_sombrero": "False",
+        "tiene_cabello_morado": "True",
+        "tiene_cabello_blanco": "False",
+        "es_un_adolescente_o_joven": "False"
+    },
+    "clancy2": {
+        "tiene_bigote": "False",
+        "es_hombre": "True",
+        "es_color_azul": "False",
+        "lleva_sombrero": "False",
+        "tiene_cabello_morado": "True",
+        "tiene_cabello_blanco": "False",
+        "es_un_adolescente_o_joven": "True"
+    }
+}
